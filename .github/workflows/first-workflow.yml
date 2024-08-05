@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print greeting
-        run: echo "Hello World!"
+        run: echo "Hello NagaShankar, welcome to GitHub Actions crash course!"
       - name: Print goodbye
-        run: echo "Done - bye!"
+        run: echo "All the best for your preparation!"
