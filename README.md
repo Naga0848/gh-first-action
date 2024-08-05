@@ -1,1 +1,1 @@
-# gh-forst-action
+# gh-first-action
